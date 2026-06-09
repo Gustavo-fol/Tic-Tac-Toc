@@ -7,5 +7,5 @@ Interaction against machine on three levels: random, medium and smart.
 Try the simple world this game.
 
 
-To run this code, click the following link: https://special-pancake-jjw5vp59v6x92q66w.github.dev/
+To run this code, click the following link: [https://special-pancake-jjw5vp59v6x92q66w.github.dev/](https://github.dev/Gustavo-fol/Tic-Tac-Toe/blob/main/version5.c)
 After access, simply download the c/c++ extension and run the code.
